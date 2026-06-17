@@ -1,7 +1,7 @@
 ## SALAM i am waliullah-azhar 
 
 # 💫 About Me:
-I am a Computer Science student in my 3rd year, currently specializing as a React Native Developer. My development philosophy follows a simple loop: Learn → Build → Deploy.<br><br>📱 Mobile Development: Currently building real-world applications using React Native.<br><br>🧠 Technical Foundation: Deeply enthusiastic about OOP, DSA, and Database Management.<br><br>⚡ Problem Solving: Actively sharpening my logic and efficiency through LeetCode challenges.<br><br>🛡️ Interests: Highly curious about Cybersecurity and secure coding practices.<br><br>🎓 Academic: Pursuing a BS in Computer Science (Junior Year).<br>
+I am a Computer Science student in 3rd year, currently specializing as a React Native Developer. My development philosophy follows a simple loop: Learn → Build → Deploy.<br><br>📱 Mobile Development: Currently building real-world applications using React Native.<br><br>🧠 Technical Foundation: Deeply enthusiastic about OOP, DSA, and Database Management.<br><br>⚡ Problem Solving: Actively sharpening my logic and efficiency through LeetCode challenges.<br><br>🛡️ Interests: Highly curious about Cybersecurity and secure coding practices.<br><br>🎓 Academic: Pursuing a BS in Computer Science (Junior Year).<br>
 
 
 ## 🌐 Socials:
